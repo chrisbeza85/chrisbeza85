@@ -4,11 +4,12 @@
 ## About Me
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning fullstack development
+- 🌱 I’m currently learning fullstack development.
+- 🎯 Always open to learning something new as well as colaborating with other developers.
 - 💬 Ask me about `Web and mobile app development`, `Arduino`, `IoT`, `Hardware`
 - 📫 How to reach me:
   chrisbeza85@gmail.com
-- ⚡ Fun fact, I like coding (In case it wasn't already obvious), but I also enjoy working with hardware and sensors, including Arduino microcontrollers and similar devices.
+
 <!-- 😄 Pronouns: ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
