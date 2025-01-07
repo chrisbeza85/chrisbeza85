@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chris Beza</h1>
-<h2 align="center">Passionate and motivated Computer Scientist with great attention to detail. Let's connect! 🚀</h2>
+<h2 align="center">Passionate and motivated Computer Scientist with great attention to detail. 🚀</h2>
 
 ## About Me
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
